@@ -11,11 +11,11 @@ We will now start getting familiar with probably the most important topic of thi
 
 The easiest way to get started by far is using a tool called [create-react-app](https://github.com/facebookincubator/create-react-app). It is possible (but not necessary) to install <i>create-react-app</i> on your machine if the <i>npm</i> tool that was installed along with Node has a version number of at least <i>5.3</i>.
 
-Let's create an application called <i>part1</i> and navigate to its directory.
+Let's create an application called <i>practice</i> and navigate to its directory.
 
 ```bash
-$ npx create-react-app part1
-$ cd part1
+$ npx create-react-app part1/practice
+$ cd part1/practice
 ```
 
 Every command, here and in the future, starting with the character <em>$</em> is typed into a terminal prompt, aka the command-line. The character <em>$</em> is not to be typed out because it represents the prompt.
